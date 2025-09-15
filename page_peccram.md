@@ -32,3 +32,6 @@ Apprendre à reconnaître le langage canin et à se comporter face à un chien.
 **Email** : canislupa@gmx.fr  
 **Téléphone** : 06 26 49 00 40  
 **Localisation** : Saint-Étienne et alentours
+
+
+[back](./)
