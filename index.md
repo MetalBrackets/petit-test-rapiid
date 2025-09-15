@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Accueil
 ---
 
 écrire en **gras**, _italic_, or ~~strikethrough~~.
