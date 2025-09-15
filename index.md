@@ -28,7 +28,40 @@ Ton chien...
 
 Et tout ce qui gêne votre vie commune peut être une raison de venir me voir.
 
-## Faire appel à mes services
+## 🐶 Faire appel à mes services
+
+---
+
+### 📘 Éducation canine
+- Rééducation, étude du comportement  
+- Séances individuelles et cours collectifs  
+- **Méthode positive basée sur l’encouragement**  
+👉🏻 [Voir mes tarifs](#)
+
+---
+
+### 🎓 Programme PECCRAM
+- Sensibilisation à la prévention des morsures  
+- Programme éducatif pour enfants et adultes  
+- Mieux comprendre le chien pour vivre en harmonie  
+👉🏻 [En savoir plus](#)
+
+---
+
+### 🐾 Dogsitting
+- Gardes à domicile  
+- Balades individuelles ou collectives  
+- Accueil type « centre aéré » pour chiens  
+👉🏻 [Me contacter](#)
+
+---
+
+
+
+✨ **Pourquoi me choisir ?**
+- Approche **bienveillante et respectueuse** du chien 🐕  
+- Suivi **personnalisé** adapté à chaque duo humain-chien 👩‍👩‍👦‍👦  
+- Expérience et passion pour une **relation harmonieuse** 💚 
 
 ### Éducation canine 
 Rééducation, étude du comportement  
