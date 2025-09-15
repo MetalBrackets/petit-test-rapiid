@@ -11,7 +11,7 @@ title: Mon super site
 description: Tutoriels et notes sur X
 # show_downloads: true
 # url: https://mon-domaine.fr        # ou https://user.github.io/mon-repo
-baseurl: ""                        # ou "/mon-repo" si projet
+baseurl: "/petit-test-rapiid"
 lang: fr
 timezone: Europe/Paris
 
