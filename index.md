@@ -5,8 +5,8 @@ title: Accueil
 
 écrire en **gras**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-[Link to another page](./guide-seo-jekill.html).
+[Vers l’autre page]({{ "/another-page/" | relative_url }})
+[Guide SEO]({% link guide-seo-jekyll.md %})
 
 There should be whitespace between paragraphs.
 
