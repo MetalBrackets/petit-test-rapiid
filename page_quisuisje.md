@@ -41,3 +41,6 @@ J’ai passé 3 ans sans chien mais toujours en dogsitting, avec un intérêt cr
 En 2023, Tao est arrivé : Cane Corso x Malinois, traumatisé. Il m’a poussée à me former plus intensément.
 
 > Tao est celui qui m’a fait autant douter que progresser dans ce métier.
+
+
+[back](./)
