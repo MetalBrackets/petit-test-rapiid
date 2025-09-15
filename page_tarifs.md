@@ -5,23 +5,13 @@ description: Tarification des services de dogsitting, d'éducation canine
 permalink: /tarifs/
 ---
 
-## Tarifs — Dogsitting
+## Tarifs — PECCRAM
 
-**Balades individuelles / visites à domicile**  
-- 1h : 20€  
-- 30min : 13€  
-+ 0,50€/km au-delà de 10km de Saint-Étienne
-
-**Centre aéré (14h–17h)**  
-- Balade en forêt, temps calme et jeu éducatif  
-- Max. 4 chiens  
-- 40€ / chien
-
-**Garde journée (7h–19h)**  
-- 3 balades de 30min dans mon quartier  
-- 50€ / jour  
-- +10€ / nuitée
-
+- 1 séance (1h) : 70€  
+- 1 séance (2h) : 130€  
+- 2 séances (4h total) : 230€  
+- Forfait 5 séances (5h) : 275€  
+- Forfait 6 séances (6h) : 330€
 
 ## Tarifs — Éducation canine
 
@@ -46,6 +36,23 @@ Accompagnement quotidien après les séances :
 30 min/jour si besoin
 
 **Exemple :** Bilan 50€ + 5 séances 205€ + 14 suivis = 245€
+
+## Tarifs — Dogsitting
+
+**Balades individuelles / visites à domicile**  
+- 1h : 20€  
+- 30min : 13€  
++ 0,50€/km au-delà de 10km de Saint-Étienne
+
+**Centre aéré (14h–17h)**  
+- Balade en forêt, temps calme et jeu éducatif  
+- Max. 4 chiens  
+- 40€ / chien
+
+**Garde journée (7h–19h)**  
+- 3 balades de 30min dans mon quartier  
+- 50€ / jour  
+- +10€ / nuitée
 
 
 ## Contact
