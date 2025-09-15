@@ -1,10 +1,39 @@
 ---
 layout: default
+description: Bienvenue sur le site de Canislupa, éducatrice canin à Saint-Étienne
+permalink: /
 ---
+
+# Bienvenue chez Canislupa
+
+Éducation canine, rééducation, dogsitting, prévention des morsures...  
+Découvrez les services proposés à Saint-Étienne et alentours.
+
+## Pages disponibles
+
+<!-- - [Présentation](/page/presentation/)
+- [Pourquoi faire appel à une éducatrice canin ?](/page/pourquoi/)
+- [Formations](/page/formations/)
+- [Expériences](/page/experiences/)
+- [Tarifs Éducation](/page/tarifs-education/)
+- [Tarifs Dogsitting](/page/tarifs-dogsitting/)
+- [PECCRAM](/page/peccram/)
+- [Tarifs PECCRAM](/page/tarifs-peccram/)
+- [Contact](/page/contact/) -->
+
+- [Présentation]({{ "/page/presentation/" | relative_url }})
+- [Pourquoi faire appel à une éducatrice canin ?]({{ "/page/pourquoi/" | relative_url }})
+- [Formations]({{ "/page/formations/" | relative_url }})
+- [Expériences]({{ "/page/experiences/" | relative_url }})
+- [Tarifs Éducation]({{ "/page/tarifs-education/" | relative_url }})
+- [Tarifs Dogsitting]({{ "/page/tarifs-dogsitting/" | relative_url }})
+- [PECCRAM]({{ "/page/peccram/" | relative_url }})
+- [Tarifs PECCRAM]({{ "/page/tarifs-peccram/" | relative_url }})
+- [Contact]({{ "/page/contact/" | relative_url }})
 
 écrire en **gras**, _italic_, or ~~strikethrough~~.
 
-[Vers lautre page]({{ "/another-page/" | relative_url }})    
+[Vers lautre page]({{ "/another-page/" | relative_url }})  
 [Guide SEO]({{ "/guide-seo-jekyll/" | relative_url }})
 
 There should be whitespace between paragraphs.
