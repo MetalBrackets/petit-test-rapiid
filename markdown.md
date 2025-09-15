@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Guide pour écrire en markdown
