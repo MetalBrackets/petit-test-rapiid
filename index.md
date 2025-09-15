@@ -11,17 +11,8 @@ Découvrez les services proposés à Saint-Étienne et alentours.
 
 ## Pages disponibles
 
-<!-- - [Présentation](/page/presentation/)
-- [Pourquoi faire appel à une éducatrice canin ?](/page/pourquoi/)
-- [Formations](/page/formations/)
-- [Expériences](/page/experiences/)
-- [Tarifs Éducation](/page/tarifs-education/)
-- [Tarifs Dogsitting](/page/tarifs-dogsitting/)
-- [PECCRAM](/page/peccram/)
-- [Tarifs PECCRAM](/page/tarifs-peccram/)
-- [Contact](/page/contact/) -->
 
-- [Présentation]({{ "/page/presentation/" | relative_url }})
+- [Présentation]({{ "./page/presentation/" | relative_url }})
 - [Pourquoi faire appel à une éducatrice canin ?]({{ "/page/pourquoi/" | relative_url }})
 - [Formations]({{ "/page/formations/" | relative_url }})
 - [Expériences]({{ "/page/experiences/" | relative_url }})

@@ -2,7 +2,7 @@
 layout: default
 title: Expériences
 description: Expériences professionnelles de Canislupa
-permalink: /experiences/
+permalink: /page/experiences/
 ---
 
 ## Mon parcours

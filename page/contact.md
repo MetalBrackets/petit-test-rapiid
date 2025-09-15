@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 description: Coordonnées de Canislupa
-permalink: /contact/
+permalink: /page/contact/
 ---
 
 ## Contact
