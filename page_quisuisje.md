@@ -1,9 +1,29 @@
 ---
 layout: default
 title: Expériences
-description: Expériences professionnelles de Canislupa
-permalink: /page/experiences/
+description: parcours de formations et expériences professionnelles de Canislupa
+permalink: /quisuisje/
 ---
+
+
+## Mes formations
+
+
+**2025**
+- Déclic et des chiens : Relax Max, chiens réactifs
+- FIMAC CANIN : PECCRAM (prévention morsure)
+
+**2024**
+- ZOOPRO — ACACED
+- Formations chiens réactifs/agressifs (ÉvolutionCanine, Cynrgie)
+- MFEC — Éducation canine positive (certifiée)
+
+**2023–2024**
+- Nature de Chien : Éducation canine & étude du comportement
+
+**2023**
+- Déclics et des chiens : Activités de calme, marche en laisse
+
 
 ## Mon parcours
 
