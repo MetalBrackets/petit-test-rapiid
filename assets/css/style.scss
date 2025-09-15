@@ -2,3 +2,18 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.header-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 150px;
+    margin-right: 15px;
+  }
+  
+  .header-text {
+    display: flex;
+    flex-direction: column;
+  }
