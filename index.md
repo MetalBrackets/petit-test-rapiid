@@ -1,9 +1,11 @@
 ---
 layout: default
 title : Bienvenue chez Canislupa !
-description: Éducation canine, rééducation, dogsitting, prévention des morsures... Découvrez les services proposés à Saint-Étienne et alentours.
+description: Éducation canine, rééducation, dogsitting, prévention des morsures...
 permalink: /
 ---
+
+Découvrez les services proposés à Saint-Étienne et alentours.
 
 ## Pourquoi faire appel à une éducatrice canin ?
 
@@ -26,30 +28,34 @@ Ton chien...
 
 Et tout ce qui gêne votre vie commune peut être une raison de venir me voir.
 
+## Faire appel à mes services
 
-**Éducation canine**  
+### Éducation canine 
 Rééducation, étude du comportement  
 Séances individuelles et cours collectifs  
 Méthode positive basée sur l'encouragement
 
-**Dogsitting**  
+### Dogsitting
 Gardes à domicile, balades individuelles ou collectives, centre aéré
+
+### Programme PECCRAM
+- [Program PECCRAM]({{ "/peccram/" | relative_url }})
+
+- [Tarifs]({{ "/tarifs/" | relative_url }})
 
 ## Qui je suis
 
 MARY  
 Éducatrice canin & comportementaliste
 
-> Je t'aide à retrouver un quotidien serein avec tes chiens : les gros, les micros, les babies, les papis, les chauds, les speed, les patapoufs...
+Je t'aide : 
+- à retrouver un quotidien serein avec tes chiens : les gros, les micros, les babies, les papis, les chauds, les speed, les patapoufs...
+- à améliorer la relation avec ton chien : qu'il soit plus calme, qu'il marche sans tirer, qu'il soit rassuré, qu'il cesse de mordiller ou qu'il reste auprès de toi en promenade.
+- à comprendre ses besoins et à mettre en place des méthodes respectueuses, sans contrainte ni douleur. 
 
+Si tu es prêt·e à évoluer avec lui, mon approche est basée sur la coopération et la bienveillance, pour que ton chien et toi puissiez progresser ensemble.
 
-- [Présentation]({{ "/quisuije/" | relative_url }})
-
-- [Tarifs]({{ "/tarif/" | relative_url }})
-
-- [Program PECCRAM]({{ "/peccram/" | relative_url }})
-
-- [Contact]({{ "/page/contact/" | relative_url }})
+- [Voir mon parcours et formations]({{ "/quisuisje/" | relative_url }})
 
 
 ## Contact

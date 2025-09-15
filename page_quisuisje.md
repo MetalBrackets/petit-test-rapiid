@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expériences
-description: parcours de formations et expériences professionnelles de Canislupa
+description: Parcours et formations de Canislupa, éducatrice canin à Saint-Étienne
 permalink: /quisuisje/
 ---
 

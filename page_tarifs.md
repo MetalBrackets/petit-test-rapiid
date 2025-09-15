@@ -48,4 +48,10 @@ Accompagnement quotidien après les séances :
 **Exemple :** Bilan 50€ + 5 séances 205€ + 14 suivis = 245€
 
 
+## Contact
+
+**Email** : canislupa@gmx.fr  
+**Téléphone** : 06 26 49 00 40  
+**Localisation** : Saint-Étienne et alentours
+
 [back](./)

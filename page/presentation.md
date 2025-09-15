@@ -7,13 +7,7 @@ permalink: /presentation/
 
 ## SAINT-ÉTIENNE ET ALENTOURS
 
-**Éducation canine**  
-Rééducation, étude du comportement  
-Séances individuelles et cours collectifs  
-Méthode positive basée sur l'encouragement
 
-**Dogsitting**  
-Gardes à domicile, balades individuelles ou collectives, centre aéré
 
 ## Qui je suis
 
@@ -22,6 +16,6 @@ MARY
 
 > Je t'aide à retrouver un quotidien serein avec tes chiens : les gros, les micros, les babies, les papis, les chauds, les speed, les patapoufs...
 
-Je peux t’aider si ton chien : aboie, tire, pleure, croque, s’enfuit, etc.  
-Mais si tu veux **transformer ton chien sans te transformer**, je **ne peux pas t’aider**.  
-Si tu veux le dresser au collier étrangleur ou que tu refuses de t’adapter à ses besoins, je **ne peux pas t’aider**.
+Je peux t'aider si tu souhaites améliorer la relation avec ton chien : qu'il soit plus calme, qu'il marche sans tirer, qu'il soit rassuré, qu'il cesse de mordiller ou qu'il reste auprès de toi en promenade.
+
+Je t'accompagne si tu es prêt·e à évoluer avec lui, à comprendre ses besoins et à mettre en place des méthodes respectueuses, sans contrainte ni douleur. Mon approche est basée sur la coopération et la bienveillance, pour que ton chien et toi puissiez progresser ensemble.
