@@ -1,5 +1,6 @@
 ---
 layout: default
+title : Bienvenue chez Canislupa !
 description: Éducation canine, rééducation, dogsitting, prévention des morsures... Découvrez les services proposés à Saint-Étienne et alentours.
 permalink: /
 ---
