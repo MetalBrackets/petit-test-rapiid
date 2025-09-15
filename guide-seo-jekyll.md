@@ -1,11 +1,11 @@
 ---
 layout: default
-title: guide
+title: Guide
 description: guide seo
-permalink: /guide-seo-jekill/
+permalink: /guide-seo-jekyll/
 ---
 
-# 📈 Guide SEO pour Jekyll sur GitHub Pages
+## Guide SEO pour Jekyll sur GitHub Pages
 
 Avec le plugin `jekyll-seo-tag` sur GitHub Pages,  
 voici un plan pour améliorer ton référencement naturel (SEO).
@@ -170,3 +170,5 @@ redirect_from:
 - [ ] Pages test ou brouillon avec `<meta name="robots" content="noindex">`
 
 ---
+
+[back](./)

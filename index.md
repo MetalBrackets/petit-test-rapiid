@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Accueil
 ---
 
 écrire en **gras**, _italic_, or ~~strikethrough~~.
 
-[Vers l’autre page]({{ "/another-page/" | relative_url }})
-[Guide SEO]({% link guide-seo-jekyll.md %})
+[Vers lautre page]({{ "/another-page/" | relative_url }})    
+[Guide SEO]({{ "/guide-seo-jekyll/" | relative_url }})
 
 There should be whitespace between paragraphs.
 
