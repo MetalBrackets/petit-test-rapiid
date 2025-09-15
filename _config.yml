@@ -16,7 +16,7 @@ lang: fr
 timezone: Europe/Paris
 
 author:
-  name: Metalbrackets
+  name: mtalbrackets
   # email: moi@example.com
   # url: https://mon-domaine.fr/a-propos
 
@@ -29,9 +29,9 @@ author:
 #     - https://www.linkedin.com/in/mon-profil/
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-redirect-from
 
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
