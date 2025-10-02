@@ -35,8 +35,8 @@ Et tout ce qui gêne votre vie commune peut être une raison de venir me voir.
 ### 📘 Éducation canine
 - Rééducation, étude du comportement  
 - Séances individuelles et cours collectifs  
-- **Méthode positive basée sur l’encouragement**  
-👉🏻 [Voir mes tarifs](#)
+- **Méthode positive basée sur l’encouragement**
+👉🏻 [Voir mes tarifs]({{ "/tarifs/" | relative_url }})
 
 ---
 
@@ -44,7 +44,7 @@ Et tout ce qui gêne votre vie commune peut être une raison de venir me voir.
 - Sensibilisation à la prévention des morsures  
 - Programme éducatif pour enfants et adultes  
 - Mieux comprendre le chien pour vivre en harmonie  
-👉🏻 [En savoir plus](#)
+👉🏻 [En savoit plus]({{ "/peccram/" | relative_url }})
 
 ---
 
@@ -52,7 +52,7 @@ Et tout ce qui gêne votre vie commune peut être une raison de venir me voir.
 - Gardes à domicile  
 - Balades individuelles ou collectives  
 - Accueil type « centre aéré » pour chiens  
-👉🏻 [Me contacter](#)
+👉🏻 [Me contacter]
 
 ---
 
