@@ -35,7 +35,7 @@ Et tout ce qui gêne votre vie commune peut être une raison de venir me voir.
 ### 📘 Éducation canine
 - Rééducation, étude du comportement  
 - Séances individuelles et cours collectifs  
-- **Méthode positive basée sur l’encouragement**
+- **Méthode positive basée sur l’encouragement**    
 👉🏻 [Voir mes tarifs]({{ "/tarifs/" | relative_url }})
 
 ---
